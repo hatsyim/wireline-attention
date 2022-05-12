@@ -17,7 +17,7 @@ The data to reproduce the work can be obtained from:
 https://drive.google.com/drive/folders/1xklSNkMVdYesDObvyl7zYYU8C5BJYb0f?usp=sharing
 
 ## 2. Instruction
-The content of the notebooks contained within <code>\notebook</code> is summarized in the table below.
+The content of the notebooks contained within <code>/notebook</code> is summarized in the table below.
 
 | No | Notebook name |Description |
 | --- | --- | --- |
