@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1kU4t6RSz7MNE9sAdxEx205_d9QBSHiWk/view?usp=shari
 
 ## 3. Remarks
 Final result of the fine-tuning
-- DTS prediction (R^2): 0.928
+- DTS prediction (R<sup>2</sup>): 0.928
 - Facies prediction (FORCE score): -0.775
 
 We notice that the results could still be improved by:
