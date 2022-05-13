@@ -37,7 +37,13 @@ Final result of the fine-tuning
 - Facies prediction (FORCE score): -0.775
 
 We notice that the results could still be improved by:
-<code>###pls add something here</code>
+- Pre-training on a larger and possibly different distributions than the one provided by the FORCE 2020 Competition. Pre-train in this fashion, the model is expected to hopefully learns the feature between wireline measurement better.
+- There are several other fine-tuning tasks pertinent to some petrophysical workflows such as missing data interpolation, electrofacies identification, etc.
+- A better embedding and per-well splitting strategies (to account for the rare interpreted facies class) are also feasible ways to improve our model.
+
+Nonetheless, we have shown yet again, a more complicate model and a sound petrophysical insights for the data pre-processing will not eventually guarantee a better performanace compared to standard non-deep learning based approach.
+
+But the quest is by no means complete!
 
 ## Thank you for your attention!
 
