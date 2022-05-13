@@ -8,9 +8,11 @@ better solution for petrophysical analysis workflow. Thus, we propose an integra
 WAtt in short).
 
 ## 1. Installation
-The environment that was used to run notebooks in this repository can be installed by:
+The environment that was used to run notebooks in this repository can simply be installed by:
 
-<code>###pls put environment installation here</code>
+<code> sh install_env-gpu.sh
+
+The command first install the environment from KAUST's ErSE 222 Machine Learning in Geoscience environment and adds several additional packages for the Transformers model.
 
 The data to reproduce the work can be obtained from:
 
