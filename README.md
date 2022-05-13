@@ -10,7 +10,7 @@ WAtt in short).
 ## 1. Installation
 The environment that was used to run notebooks in this repository can simply be installed by:
 
-<code> sh install_env-gpu.sh
+<code> sh install_env-gpu.sh </code>
 
 The command first install the environment from KAUST's ErSE 222 Machine Learning in Geoscience environment and adds several additional packages for the Transformers model.
 
